@@ -1,0 +1,13 @@
+C:\Users\Lacey\workspace\FortuneTeller\bin\Debug\netcoreapp3.1\FortuneTeller.exe
+C:\Users\Lacey\workspace\FortuneTeller\bin\Debug\netcoreapp3.1\FortuneTeller.deps.json
+C:\Users\Lacey\workspace\FortuneTeller\bin\Debug\netcoreapp3.1\FortuneTeller.runtimeconfig.json
+C:\Users\Lacey\workspace\FortuneTeller\bin\Debug\netcoreapp3.1\FortuneTeller.runtimeconfig.dev.json
+C:\Users\Lacey\workspace\FortuneTeller\bin\Debug\netcoreapp3.1\FortuneTeller.dll
+C:\Users\Lacey\workspace\FortuneTeller\bin\Debug\netcoreapp3.1\FortuneTeller.pdb
+C:\Users\Lacey\workspace\FortuneTeller\obj\Debug\netcoreapp3.1\FortuneTeller.csprojAssemblyReference.cache
+C:\Users\Lacey\workspace\FortuneTeller\obj\Debug\netcoreapp3.1\FortuneTeller.AssemblyInfoInputs.cache
+C:\Users\Lacey\workspace\FortuneTeller\obj\Debug\netcoreapp3.1\FortuneTeller.AssemblyInfo.cs
+C:\Users\Lacey\workspace\FortuneTeller\obj\Debug\netcoreapp3.1\FortuneTeller.csproj.CoreCompileInputs.cache
+C:\Users\Lacey\workspace\FortuneTeller\obj\Debug\netcoreapp3.1\FortuneTeller.dll
+C:\Users\Lacey\workspace\FortuneTeller\obj\Debug\netcoreapp3.1\FortuneTeller.pdb
+C:\Users\Lacey\workspace\FortuneTeller\obj\Debug\netcoreapp3.1\FortuneTeller.genruntimeconfig.cache
